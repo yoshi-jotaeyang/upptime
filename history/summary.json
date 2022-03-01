@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 145,
-    "timeDay": 91,
-    "timeWeek": 198,
-    "timeMonth": 182,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 236,
+    "timeWeek": 221,
+    "timeMonth": 193,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2022-02-01": 28,
       "2021-11-28": 17
@@ -25,19 +25,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 129,
-    "timeWeek": 135,
+    "time": 230,
+    "timeDay": 136,
+    "timeWeek": 136,
     "timeMonth": 175,
-    "timeYear": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 18
     }
   },
   {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 383,
-    "timeDay": 70,
-    "timeWeek": 172,
-    "timeMonth": 187,
+    "timeDay": 185,
+    "timeWeek": 188,
+    "timeMonth": 191,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-02-01": 27,
